@@ -1,3 +1,5 @@
+from objects.player import Player
+
 import pygame
 playerFault = False
 computerFault = False
